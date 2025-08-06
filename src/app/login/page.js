@@ -160,16 +160,7 @@ export default function LoginPage() {
           </CardContent>
         </Card>
 
-        {/* Demo Credentials */}
-        <div className="mt-6 p-4 bg-gradient-to-r from-blue-50 to-purple-50 dark:from-blue-900/30 dark:to-purple-900/30 rounded-2xl border border-blue-200/50 dark:border-blue-700/50">
-          <h3 className="text-sm font-medium text-blue-900 dark:text-blue-100 mb-2">
-            Credenciais de Demonstração:
-          </h3>
-          <div className="text-xs text-blue-700 dark:text-blue-300 space-y-1">
-            <p><strong>Email:</strong> demo@exemplo.com</p>
-            <p><strong>Senha:</strong> 123456</p>
-          </div>
-        </div>
+   
       </div>
     </div>
   )
